@@ -1,1 +1,2 @@
-# my-project
+## Goals
+Build a CLI tool for DevOps
